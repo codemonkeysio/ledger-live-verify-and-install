@@ -215,7 +215,7 @@ chmod u+x verify-ledger-live.sh
 chmod u+x install-ledger-live.sh
 ```
 
-Running 'chmod u+x` on the files grants only the owner of the file execution permissions.
+Running `chmod u+x` on the files grants only the owner of the file execution permissions.
 
 Then verify Ledger Live by running:
 
