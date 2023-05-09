@@ -78,7 +78,7 @@ gpg:          There is no indication that the signature belongs to the owner.
 
 This warning means that the key is not certified by another third party authority. If the downloaded file was a fake, then the signature verification process would fail and you would be warned that the fingerprints don't match.
 
-When you get a warning like this it's also good practice to check the key against other sources, e.g., the [Code Monkeys Keybase](https://keybase.io/codemonkeystech "Code Monkeys Keybase") or the [Code Monkeys Blog](https://codemonkeys.tech/contact/#socials-%F0%9F%90%B5 "Code Monkeys Blog").
+When you get a warning like this it's also good practice to check the key against other sources, e.g., the [Code Monkeys Keybase](https://keybase.io/codemonkeystech "Code Monkeys Keybase") or the [Code Monkeys Blog](https://codemonkeys.tech/contact/#primary-pgp-key-%F0%9F%94%90 "Code Monkeys Blog").
 
 You have now verified the signature of the manifest file which ensures the integrity and authenticity of the file but not the verification and installation scripts.
 
