@@ -29,7 +29,7 @@ initial_instructions() {
   printf "ledger-live-desktop-*.sha512sum\n"
   printf "ledgerlive.pem\n"
   printf "ledger-live-desktop-*.sha512sum.sig\n\n"
-  printf "Here's a link to the Ledger Live signatures and releases page where you can download the above files:\n"
+  printf "Here's a link to the Ledger Live signatures and releases page where you can download the above files.\n"
   printf "If you prefer to not share your IP address with Ledger, then use a trusted VPN or Tor when visiting their website to mask your IP address.\n"
   printf "https://www.ledger.com/ledger-live/lld-signatures\n\n"
   printf "The *'s in the file names above will be replaced by whatever version of Ledger Live you're verifying.\n"

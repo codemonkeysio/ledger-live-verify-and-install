@@ -60,7 +60,7 @@ You should see the following if the verification was successful:
 
 ```sh
 gpg: assuming signed data in 'ledger-live-verify-and-install-manifest.sha512sum'
-gpg: Signature made Tue 09 May 2023 09:40:43 AM EDT
+gpg: Signature made Tue 09 May 2023 07:03:04 PM EDT
 gpg:                using RSA key FCFFD7771CCA9DC3A75EB51AD70C28777CBE04A5
 gpg: Good signature from "Jay the Code Monkey <jaythecodemonkey.7vk7i@slmail.me>" [ultimate]
 gpg:                 aka "Jay the Code Monkey <c0dem0nkeys@pm.me>" [ultimate]
