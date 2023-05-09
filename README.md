@@ -88,7 +88,7 @@ To verify the verification and installation scripts you'll need to recompute the
 sha512sum --check ledger-live-verify-and-install-manifest.sha512sum
 ```
 
-If the verification was successful you should see the following out:
+If the verification was successful you should see the following output:
 
 ```sh
 ./install-ledger-live.sh: OK
